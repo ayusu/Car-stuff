@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: floralwhite;
+}
+
+button {
+  padding: 0.5rem 1rem;
+  margin: 1rem 0.3rem;
+  cursor: pointer;
+  border-radius: 0.5rem;
+  border: 2px solid black;
+  background: transparent;
+}
+
+input {
+  padding: 1rem;
+  margin: 0.5rem;
+  border-radius: 0.5rem;
+  max-width: 400px;
+  font-size: 15px;
+}
